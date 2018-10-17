@@ -24,6 +24,11 @@
     "webpack-dev-server": "^3.1.4"
   },
   "devDependencies": {
-    "babel-plugin-transform-object-rest-spread": "^6.26.0"
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "mini-css-extract-plugin": "^0.4.4",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-redux": "^5.0.7",
+    "uuid": "^3.3.2"
   }
 }
